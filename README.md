@@ -1,7 +1,8 @@
 # RCJ-Soccer-StandardMessage
 This is a proposal for a standard message in RoboCupJunior Soccer.
 
-##Protocol
+## Protocol
+
 JSON-based
 ```
 {
