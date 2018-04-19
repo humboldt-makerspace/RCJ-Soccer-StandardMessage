@@ -50,7 +50,7 @@ JSON-based
 }
 ```
 
-##Description
+## Description
 
 teamNumber - 1(home team) and 2(guest team)
 teamID - choosen by each team, has to be unique
@@ -73,11 +73,11 @@ ball:velocity:y - in mm/s
 timestamp - time since kickoff started
 customData - up to yourself :)
 
-##Contribution
+## Contribution
 
 Feel free to do change requests or add a new example based on other libraries or platforms.
 
-##Thanks
+## Thanks
 
 Thanks to the RoboCup SPL Community. This protocol is based on their approach.
 https://github.com/bhuman/GameController/blob/master/include/SPLStandardMessage.h
